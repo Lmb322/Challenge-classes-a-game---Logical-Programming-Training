@@ -23,4 +23,4 @@ class getHero {
 }
 let hero1 = new getHero("Odin", "30", "Monge")
 let atackHero = hero1.brainHero()
-console.log(`O ${hero1.type} atacou usando ${atackHero}`)
+console.log(`O${hero1.type} atacou usando ${atackHero}`)
